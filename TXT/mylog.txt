@@ -1,1 +1,7 @@
 # Log Format
+# ZCZC WEEK# MINUTES LogCode Description
+ZCZC W00  15 L01 Baca Announcements & Forum di Scele OS
+ZCZC W00 120 L02 Zoom OS Pertemuan 1
+ZCZC W00  15 L03 Membuat repository dan log file baru
+ZCZC W00  20 L05 Mencari cara membuat page di Github (Google & Youtube)
+ZCZC W00  35 L04 Membuat Github page
