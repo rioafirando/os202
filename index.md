@@ -7,4 +7,4 @@
 ## My log :<br>
 
 ## Weekly Top 10 Lists
-*[Week 00](W00/)
+* [Week 00](W00/)
