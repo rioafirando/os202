@@ -2,7 +2,6 @@
 [Visit Github](https://github.com/rioafirando/os202)
 
 ## Rio Afirando - 2006561065
-<br>
 <p>Nama saya Rio Afirando, mahasiswa MIK 2020</p>
 <hr>
 ## My log :<br>
@@ -11,5 +10,5 @@
 ## Weekly Top 10 Lists
 * [Week 00](W00/)
 
-
+<hr>
 <img src="logo_ui.jpg" width="200">
