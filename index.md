@@ -3,6 +3,7 @@
 
 ## Rio Afirando - 2006561065
 <br>
+<p>Nama saya Rio Afirando, mahasiswa MIK 2020</p>
 <hr>
 ## My log :<br>
 [click here](TXT/mylog.txt)
