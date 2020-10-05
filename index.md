@@ -5,7 +5,7 @@
 <p>Nama saya Rio Afirando, mahasiswa MIK 2020</p>
 <hr>
 ## My log :<br>
-[click here](TXT/mylog.txt)
+[click here](TXT/mylog.txt)<br>
 ## My Rank :<br>
 [click here](TXT/myrank.txt)
 
