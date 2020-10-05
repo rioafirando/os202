@@ -6,6 +6,8 @@
 <hr>
 ## My log :<br>
 [click here](TXT/mylog.txt)
+## My Rank :<br>
+[click here](TXT/myrank.txt)
 
 ## Weekly Top 10 Lists
 * [Week 00](W00/)
