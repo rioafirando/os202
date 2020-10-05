@@ -9,3 +9,9 @@ ZCZC W01 120 L02 Zoom/kuliah OS
 ZCZC W01  15 L22 Mempelajari vi
 ZCZC W01 240 L11 Setting Debian
 ZCZC W01 120 Setup GNU/Linux
+ZCZC W02 120 L02 Zoom/kuliah OS
+ZCZC W02  30 L04 Update Github Page
+ZCZC W02 180 L06 Reading OSC10 Chapter 16,17
+ZCZC W02 190 L12 Praktek enkripsi
+
+
