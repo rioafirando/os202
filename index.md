@@ -10,6 +10,7 @@
 ## Weekly Top 10 Lists
 * [Week 00](W00/)
 * [Week 01](W01/)
+* [Week 02](W02/)
 
 <hr>
 <img src="logo_ui.jpg" width="200">
