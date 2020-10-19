@@ -18,5 +18,9 @@ ZCZC W03  30 L01 Menjawab pertanyaan di forum
 ZCZC W03 120 L13 Mengerjakan Assignment enkripsi
 ZCZC W03  20 L05 GSGS supporting Assignment 3
 ZCZC W03  15 L22 Youtube supporting Assignment 3
+ZCZC W04 120 L02 Zoom/Kuliah OS
+ZCZC W04 120 L14 Mengerjakan assignment week 04
+ZCZC W04  60 L05 GSGS
+ZCZC W04  30 L04 Update github page
 
 
