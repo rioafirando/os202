@@ -26,4 +26,8 @@ ZCZC W05 120 L02 Zoom/Kuliah OS
 ZCZC W05 120 L05 GSGS
 ZCZC W05  60 L22 Youtube codingan C
 ZCZC W05  60 L15 Mengerjakan assignments week 05
+ZCZC W06 120 L02 Zoom/Kuliah OS
+ZCZC W06 180 L05 GSGS
+ZCZC W06  30 L04 Update github page
+ZCZC W06  60 L16 Mengerjakan assignments week 06
 
