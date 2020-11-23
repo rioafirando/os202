@@ -17,3 +17,6 @@ ZCZC W04 saridss
 ZCZC W05 saddamonpc
 ZCZC W05 rabialco
 ZCZC W05 putrisalsa26
+ZCZC W06 saddamonpc
+ZCZC W06 rabialco
+ZCZC W06 qiwqiw
