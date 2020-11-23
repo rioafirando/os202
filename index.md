@@ -4,8 +4,8 @@
 ## Halo Duniaa!
 <p>Nama saya Rio
 <hr>
-* [My Log](TXT/mylog.txt)
-* [My Rank](TXT/myrank.txt)
+[My Log](TXT/mylog.txt)<br>
+[My Rank](TXT/myrank.txt)
 
 ## Weekly Top 10 Lists
 * [Week 00](W00/)
