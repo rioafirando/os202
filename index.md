@@ -5,9 +5,9 @@
 <p>Nama saya Rio
 <hr>
 ## My log :<br>
-[click here](TXT/mylog.txt)<br>
+[click here](/TXT/mylog.txt)<br>
 ## My Rank :<br>
-[click here](TXT/myrank.txt)
+[click here](/TXT/myrank.txt)
 
 ## Weekly Top 10 Lists
 * [Week 00](W00/)
