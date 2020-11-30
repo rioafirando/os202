@@ -16,5 +16,6 @@
 * [Week 05](W05/)
 * [Week 06](W06/)
 * [Week 07](W07/)
+* [Week 08](W08/)
 <hr>
 <img src="logo_ui.jpg" width="200">
