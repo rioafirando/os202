@@ -37,4 +37,7 @@ ZCZC W07 190 L17 Mengerjakan assignments week 07
 ZCZC W08 120 L02 Zoom/Kuliah OS
 ZCZC W08 420 L18 Mengerjakan assignment week 08
 ZCZC W08  15 L04 Mengupdate halaman github
+ZCZC W09  50 L02 Kuliah OS
+ZCZC W09 300 L19 Mengerjakan assignment week 09
+ZCZC W09  15 L04 Mengupdate halaman github
 
