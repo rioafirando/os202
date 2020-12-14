@@ -40,4 +40,8 @@ ZCZC W08  15 L04 Mengupdate halaman github
 ZCZC W09  50 L02 Kuliah OS
 ZCZC W09 300 L19 Mengerjakan assignment week 09
 ZCZC W09  15 L04 Mengupdate halaman github
+ZCZC W10  60 L02 Kuliah OS
+ZCZC W10 120 L20 Mengerjakan assignment week 10
+ZCZC W10  20 L05 GSGS untuk assignment
+ZCZC W10  15 L04 Mengupdate halaman github
 
